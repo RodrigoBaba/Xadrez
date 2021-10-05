@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Baba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Baba\\.nuget\\packages",
+      "F:\\Visual Studio Componentes, ferramentas e SDKs\\NuGetPackages"
+    ]
+  }
+}
