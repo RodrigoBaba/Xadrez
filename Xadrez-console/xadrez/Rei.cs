@@ -18,7 +18,7 @@ namespace Xadrez_console.xadrez
             return p == null || p.cor != cor;
         }
 
-        public override bool[,] momentosPossiveis()
+        public override bool[,] movimentosPossiveis()
         {
             bool[,] mat = new bool[tab.linhas, tab.colunas];
 
